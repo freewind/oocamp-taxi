@@ -2,3 +2,5 @@
 oocamp-taxi.iml
 oocamp-taxi.ipr
 oocamp-taxi.iws
+.gradle/
+build/
